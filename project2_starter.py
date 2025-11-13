@@ -3,7 +3,8 @@ COMP 163 - Project 2: Character Abilities Showcase
 Name: Daylen Hicks
 Date: 11/11/2025
 
-AI Usage: [Document any AI assistance used]
+AI Usage: AI Usage: V=AI Usage: AI (ChatGPT) was used to provide guidance on object-oriented programming concepts, including class inheritance, method overriding, and constructor usage. AI also helped clarify how to structure player and character classes, and offered suggestions for implementing special abilities and stat distributions. All code implementation, testing, and final decisions were completed by the student.
+
 Example: AI helped with inheritance structure and method overriding concepts
 """
 import random
